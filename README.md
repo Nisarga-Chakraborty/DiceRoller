@@ -21,4 +21,4 @@ This Flutter app reimagines the classic dice roller by replacing traditional dic
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/virat-kohli-dice-roller.git
+   git clone https://github.com/DiceRoller/virat-kohli-dice-roller.git
