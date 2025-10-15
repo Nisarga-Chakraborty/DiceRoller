@@ -10,7 +10,7 @@ This Flutter app reimagines the classic dice roller by replacing traditional dic
 - 🧪 Great for beginners learning Flutter state management
 
 ## 📸 Preview
-> _Add a GIF or screenshot here to showcase the app in action_
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/64343d58-46a1-483c-aa57-06638acdea4b" />
 
 ## 🛠️ Getting Started
 
